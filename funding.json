@@ -61,7 +61,7 @@
         "frequency": "one-time",
         "channels": [
           "github-sponsors",
-          "liberapay"
+          "liberapay-mbcompass"
         ]
       },
       {
@@ -74,7 +74,7 @@
         "frequency": "one-time",
         "channels": [
           "github-sponsors",
-          "liberapay"
+          "liberapay-mbcompass"
         ]
       },
       {
@@ -87,7 +87,7 @@
         "frequency": "monthly",
         "channels": [
           "github-sponsors",
-          "liberapay"
+          "liberapay-mbcompass"
         ]
       }
     ],
